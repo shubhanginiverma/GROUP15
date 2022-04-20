@@ -14,13 +14,12 @@ const Hero = () => {
         </div>
         <div className="col-lg-6">
           <h1 className="display-5 fw-bold lh-1 mb-3">
-            Responsive left-aligned hero with image
+            MEDISURE - The heart of your healthcare.
           </h1>
           <p className="lead">
-            Quickly design and customize responsive mobile-first sites with
-            Bootstrap, the world’s most popular front-end open source toolkit,
-            featuring Sass variables and mixins, responsive grid system,
-            extensive prebuilt components, and powerful JavaScript plugins.
+            <b>We aim to provide health services readily accessible on one platform and make valuable 
+            information easily available, intelligible, and actionable so that
+            readers can make the best possible health decisions.</b>
           </p>
         </div>
       </div>

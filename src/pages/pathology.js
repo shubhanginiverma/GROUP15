@@ -94,7 +94,7 @@ const Pathology = () => {
                     width: "200px",
                     borderRadius: "100%",
                   }}
-                  filename="covid.jpg"
+                  filename="Virions.jpg"
                   alt="1"
                 />{" "}
                 <div class="card-header">
@@ -103,7 +103,7 @@ const Pathology = () => {
                 <div class="card-body">
                   <h6 class="card-title">3 tests included</h6>
                   <p class="card-text">
-                    <b>₹ 750</b>
+                    <b>MRP ₹ 750</b>
                   </p>
                   <button
                     class="btn btn-primary"
@@ -126,7 +126,7 @@ const Pathology = () => {
                     width: "200px",
                     borderRadius: "100%",
                   }}
-                  filename="cbc3.jpg"
+                  filename="CBC.jpg"
                   alt="1"
                 />{" "}
                 <div class="card-header">
@@ -135,7 +135,7 @@ const Pathology = () => {
                 <div class="card-body">
                   <h6 class="card-title">13 tests included</h6>
                   <p class="card-text">
-                    <b>₹ 1350</b>
+                    <b>MRP ₹ 1350</b>
                   </p>
                   <button
                     class="btn btn-primary"
@@ -165,9 +165,8 @@ const Pathology = () => {
                 </div>
                 <div class="card-body">
                   <h6 class="card-title">12 tests included</h6>
-                  <p class="card-text">MRP ₹ 1850 56% off</p>
                   <p>
-                    <b> ₹ 822</b>
+                    <b>MRP ₹ 822</b>
                   </p>
                   <button
                     class="btn btn-primary"
@@ -190,16 +189,16 @@ const Pathology = () => {
                     width: "200px",
                     borderRadius: "100%",
                   }}
-                  filename="haemoglobin.jpg"
+                  filename="anemia.jpg"
                   alt="1"
                 />{" "}
                 <div class="card-header">
-                  <b>Hemoglobin</b>
+                  <b>Anemia</b>
                 </div>
                 <div class="card-body">
                   <h6 class="card-title">1 test included</h6>
                   <p class="card-text">
-                    <b> ₹ 220</b>
+                    <b>MRP ₹ 220</b>
                   </p>
                   <button
                     class="btn btn-primary"
@@ -221,17 +220,16 @@ const Pathology = () => {
                     width: "200px",
                     borderRadius: "100%",
                   }}
-                  filename="wellness.jpg"
+                  filename="womenwell.jpg"
                   alt="1"
                 />{" "}
                 <div class="card-header">
-                  <b>Women Wellness Advance</b>
+                  <b>Women Wellness - Advance</b>
                 </div>
                 <div class="card-body">
                   <h6 class="card-title">36 tests included</h6>
-                  <p class="card-text">MRP ₹ 5115 30% Off</p>
                   <p>
-                    <b>₹ 3587 </b> savings ₹ 1528
+                    <b>MRP ₹ 3587 </b>
                   </p>
                   <button
                     class="btn btn-primary"
@@ -253,7 +251,7 @@ const Pathology = () => {
                     width: "200px",
                     borderRadius: "100%",
                   }}
-                  filename="Senior Citizen.jpg"
+                  filename="seniorcitizen.jpg"
                   alt="1"
                 />{" "}
                 <div class="card-header">

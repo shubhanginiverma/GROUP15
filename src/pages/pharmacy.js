@@ -101,10 +101,10 @@ var libraries = [
   { image: "pharmacy17", name: "Diazen", price: "Rs 519", expiry: "1 year" },
   { image: "pharmacy18", name: "ENO", price: "Rs 399", expiry: "1 year" },
   { image: "pharmacy19", name: "ORS", price: "Rs 3.71", expiry: "1 month" },
-  { image: "pharmacy20", name: "Glocon D", price: "Rs 152", expiry: "1 year" },
+  { image: "pharmacy20", name: "Glucon D", price: "Rs 152", expiry: "1 year" },
   { image: "pharmacy21", name: "Mask", price: "Rs 28.99", expiry: "1 year" },
-  { image: "pharmacy22", name: "Senitizer", price: "Rs 35", expiry: "1 year" },
-  { image: "pharmacy23", name: "Move", price: "Rs 101", expiry: "2 year" },
+  { image: "pharmacy22", name: "Sanitizer", price: "Rs 35", expiry: "1 year" },
+  { image: "pharmacy23", name: "Moov", price: "Rs 101", expiry: "2 year" },
   { image: "pharmacy24", name: "Vicks", price: "Rs 20", expiry: "1 year" },
   { image: "pharmacy26", name: "Complan", price: "Rs 175", expiry: "1 year" },
 ]
