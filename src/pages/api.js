@@ -1,4 +1,5 @@
-import { NEWS_API_KEY } from "./config"
+const NEWS_API_KEY = "4a22f768c0064a09982aeef81e196dd4"
+// import { NEWS_API_KEY } from "./config"
 
 export const getBitcoinArticles = async () => {
   const response = await fetch(
