@@ -57,19 +57,19 @@ const Modal = () => {
                   </tr>
 
                   <tr>
-                    <th scope="row">2</th>
+                    <th scope="row">3</th>
                     <td>Punjab</td>
                     <td>Ludhiana</td>
                     <td>0161-522222</td>
                   </tr>
                   <tr>
-                    <th scope="row">2</th>
+                    <th scope="row">4</th>
                     <td>Bihar</td>
                     <td>Arrah</td>
                     <td>0161-648521</td>
                   </tr>
                   <tr>
-                    <th scope="row">2</th>
+                    <th scope="row">5</th>
                     <td>Uttar Pradesh</td>
                     <td>Ludhiana</td>
                     <td>0161-522222</td>
