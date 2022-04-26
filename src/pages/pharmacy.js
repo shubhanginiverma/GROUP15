@@ -19,7 +19,7 @@ class SearchExample extends React.Component {
     return (
       <Layout>
         <div className="container text-center py-5">
-          <h2 className="pb-2 border-bottom text-center">Pharmacy</h2>
+          <h2 className="pb-2 border-bottom text-center"><b>PHARMACY</b></h2>
 
           <div class="input-group">
             <input

@@ -21,6 +21,7 @@ const Home = (props) => {
           </div>
         </form>
       </div>
+    
 
       <div className="tablet:grid-col">{/* <img src="/images/TOS.png" /> */}</div>
     </React.Fragment>

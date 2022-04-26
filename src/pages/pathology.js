@@ -11,7 +11,7 @@ const Pathology = () => {
             Download Report
           </a>
         </button> */}
-        <h2 className="pb-2 border-bottom text-center">Pathology</h2>
+        <h2 className="pb-2 border-bottom text-center"><b>PATHOLOGY</b></h2>
         <div class="input-group mb-3">
           <input
             type="text"
@@ -82,7 +82,7 @@ const Pathology = () => {
           </div>
           <h2 className="pb-2 border-bottom text-center">
             {" "}
-            Tests By Conditions
+            TESTS BY CONDITIONS
           </h2>
           <div className="row">
             <div class="col-lg-4 col-md-6 col-sm-12">

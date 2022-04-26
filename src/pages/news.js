@@ -1,5 +1,5 @@
 import React from "react"
-import { getArticles } from "./api"
+import getArticles from "./api"
 import ArticleList from "../components/ArticleList/articlesList"
 import SearchBar from "../components/SearchBar/searchBar"
 import { Container, Header } from "semantic-ui-react"

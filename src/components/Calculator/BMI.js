@@ -87,13 +87,13 @@ class App extends React.Component {
     return (
       <div className="App container text-center">
         <div className="col-xs-12">
-          <h1 className="fw-bold">BMI Calculator</h1>
+          <h1 className="fw-bold">BMI CALCULATOR</h1>
           <p>Enter your weight and height below.</p>
         </div>
 
         <div className="row justify-content-center">
           <div className="col-sm-8">
-            <div className="card card-body shadow bg-info mb-4">
+            <div className="bmicard mb-4">
               <BmiDisplay
                 bmi={bmi}
                 label={results.label}

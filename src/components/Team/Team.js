@@ -6,15 +6,15 @@ import Image from "../Images/Images"
 const Items = [
   {
     name: "Akarshika",
-    github: "https://www.facebook.com",
+    github: "https://github.com/akarshika23",
     instagram: "https://www.instagram.com",
-    linkedin: "https://www.linkedin.com",
+    linkedin: "https://www.linkedin.com/in/akarshika-singh-17b9aa192",
   },
   {
     name: "Anjali Mishra",
-    github: "https://www.facebook.com",
+    github: "https://github.com/anjalimishra1203",
     instagram: "https://www.instagram.com",
-    linkedin: "https://www.linkedin.com",
+    linkedin: "https://www.linkedin.com/in/anjali-mishra-521778232/",
   },
   {
     name: "Krity Kumari",
@@ -24,9 +24,9 @@ const Items = [
   },
   {
     name: "Shubhangini",
-    github: "https://www.facebook.com",
+    github: "https://github.com/shubhanginiverma",
     instagram: "https://www.instagram.com",
-    linkedin: "https://www.linkedin.com",
+    linkedin: "https://www.linkedin.com/in/shubhangini-verma-5573301b1/",
   },
   {
     name: "Vaishnavi",
